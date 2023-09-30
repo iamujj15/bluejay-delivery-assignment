@@ -1,0 +1,6 @@
+Some conditions were not clear in the assignment,
+so I printed the Id and the name of the Employee to the best of my understanding.
+But it's just a matter of changing few conditions [Line 127] in case of any misunderstanding.
+I hope, that I have done the assignment correctly and any misunderstanding
+will not affect the evaluation of my work.
+Thank you for your time and consideration.
